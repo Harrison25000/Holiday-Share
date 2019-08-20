@@ -1,5 +1,5 @@
 <h1 align='center'> Holiday-Share </h1>
-<p align='center'> @Harrison25000 || @Schofield88 <br> 
+<p align='center'> @Harrison25000 || @Schofield88 <br>
   ©Holiday-Share, 20/08/2019, GitHub.ltd
 </p>
 
@@ -24,3 +24,9 @@
 | Coded with a JS (Vanilla/React/Vue/etc..., <b>Undecided</b> ) frontend                                                          |
 | Coded with a Java & C# backend (Testing yet to be explored - Likely JUnit & ( <i>Addition by Luke</i>). Use of IDE's included. |
 | Use of Node as a runtime environment (Server side?)                                                                     |
+
+- React installed (from current location of this README:
+   - npx create-react-app holiday-share
+   - npm install react-router-dom   //(handles the routing)
+   (then if you cd into holiday-share you can run 'npm start' and a webpage should appear.)
+  )
