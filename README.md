@@ -27,6 +27,6 @@
 
 - React installed (from current location of this README:
    - npx create-react-app holiday-share
-   - npm install react-router-dom   //(handles the routing)
+   - npm install react-router-dom   //(handles the routing) <br>
    (then if you cd into holiday-share you can run 'npm start' and a webpage should appear.)
   )
