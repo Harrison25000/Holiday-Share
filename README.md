@@ -13,7 +13,7 @@
 
 <h4> Future concepts </h4>
 
-- linked into things like: Print a book of your holiday pictures.
+- Linked into things like: Print a book of your holiday pictures.
 - Made into an app.
 
 
@@ -28,5 +28,5 @@
 - React installed (from current location of this README:
    - npx create-react-app holiday-share
    - npm install react-router-dom   //(handles the routing) <br>
-   (then if you cd into holiday-share you can run 'npm start' and a webpage should appear.)
+  (then if you cd into holiday-share you can run 'npm start' and a webpage should appear.)
   )
