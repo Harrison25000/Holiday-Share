@@ -11,16 +11,16 @@ function Nav() {
   return (
     <div className="Nav">
       <nav>
-        <h3>Logo</h3>
+        <h3 className="nav-logo">Logo</h3>
         <ul className="nav-links">
           <Link style={navStyle} to='/about_page'>
-          <li> About </li>
+          <li className='nav-about'> About </li>
           </Link>
           <Link style={navStyle} to='profile_page'>
-          <li> Profile </li>
+          <li className='nav-profile'> Profile </li>
           </Link>
           <Link style={navStyle} to='/'>
-          <li> Home </li>
+          <li className='nav-home'> Home </li>
           </Link>
         </ul>
       </nav>

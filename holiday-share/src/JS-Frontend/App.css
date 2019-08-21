@@ -11,11 +11,26 @@ nav {
 }
 
 .nav-links{
-  width: 50%;
   display: flex;
   align-items: center;
   justify-content: space-around;
   list-style: none;
+  text-decoration: none;
+}
+
+.nav-home{
+  position: relative;
+  left: 200px;
+}
+.nav-profile{
+  position: relative;
+  left: 100px;
+
+}
+
+.nav-logo{
+  position: relative;
+  right: 18%;
 }
 
 .Brand{

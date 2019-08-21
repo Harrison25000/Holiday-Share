@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f07d906b-0691-42ed-beac-cf88cefdd551" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/Profile_Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/Profile_Page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holiday-share/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/holiday-share/src/JS-Frontend/serviceWorker.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/holiday-share/src/JS-Frontend/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/holiday-share/src/Java-Backend/test.java" />
+        <option value="$PROJECT_DIR$/holiday-share/src/JS-Frontend/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Holiday-Share.iml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="523" />
+    <option name="y" value="35" />
+    <option name="width" value="917" />
+    <option name="height" value="821" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Holiday-Share" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Holiday-Share" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Holiday-Share" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Holiday-Share" type="462c0819:PsiDirectoryNode" />
+              <item name="holiday-share" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Holiday-Share" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Holiday-Share" type="462c0819:PsiDirectoryNode" />
+              <item name="holiday-share" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Holiday-Share" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Holiday-Share" type="462c0819:PsiDirectoryNode" />
+              <item name="holiday-share" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JS-Frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/holiday-share/src/JS-Frontend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f07d906b-0691-42ed-beac-cf88cefdd551" name="Default Changelist" comment="" />
+      <created>1566404654432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566404654432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="523" y="35" width="917" height="821" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25942856" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/holiday-share/src/Java-Backend/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holiday-share/src/JS-Frontend/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
